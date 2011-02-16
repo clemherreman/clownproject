@@ -20,7 +20,7 @@
       <controlProperties>
         <bold>true</bold>
         <size>16</size>
-        <text>Project%20Manhattan</text>
+        <text>Manhattan%20Project</text>
       </controlProperties>
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="163" y="359" w="211" h="61" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
@@ -150,7 +150,7 @@
       <controlProperties>
         <bold>true</bold>
         <size>11</size>
-        <text>Projet%20Manhattan%20top%203%3A</text>
+        <text>Manhattan%20Projet%20top%203%3A</text>
       </controlProperties>
     </control>
     <control controlID="59" controlTypeID="com.balsamiq.mockups::Paragraph" x="186" y="728" w="176" h="75" measuredW="200" measuredH="140" zOrder="37" locked="false" isInGroup="-1">
