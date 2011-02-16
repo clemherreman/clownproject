@@ -1,0 +1,132 @@
+<mockup version="1.0" skin="sketch" measuredW="961" measuredH="720" mockupW="822" mockupH="648">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="139" y="72" w="822" h="648" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Page%20d%27acceuil%0Ahttp%3A//clown.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="186" y="180" w="-1" h="-1" measuredW="395" measuredH="54" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20project%20CLOWN</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="188" y="234" w="-1" h="-1" measuredW="691" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Awesome%20baseline%20that%20kills%20kitten%20and%20new-born%20children.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="180" y="302" w="425" h="361" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Projet%20CLOWN%20%3A%20denounce%20the%20clown%20of%20your%20team%20point%20fingers%20at%20him.%20Every%20week.%20%0A%20%0A*%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%0A%20%0A*%20Lorem%20ipsum%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%0A%20%0A*%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::VRule" x="626" y="301" w="-1" h="362" measuredW="5" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="653" y="316" w="-1" h="-1" measuredW="47" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>16</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="882" y="318" w="-1" h="-1" measuredW="62" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BI%27m%20new%20%21%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="679" y="371" w="250" h="40" measuredW="250" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="5" w="250" h="32" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>16512</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="250" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>128</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="31" y="0" w="17" h="40" measuredW="13" measuredH="35" zOrder="2" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>128</color>
+            <size>24</size>
+            <text>%7C</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="17" y="3" w="17" h="33" measuredW="12" measuredH="30" zOrder="3" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>16777215</color>
+            <size>20</size>
+            <text>f</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="50" y="8" w="66" h="27" measuredW="64" measuredH="23" zOrder="4" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>15790322</color>
+            <size>14</size>
+            <text>Connect</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="116" y="8" w="36" h="27" measuredW="33" measuredH="23" zOrder="5" locked="false" isInGroup="10">
+          <controlProperties>
+            <bold>false</bold>
+            <color>15790322</color>
+            <size>14</size>
+            <text>with</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="156" y="8" w="78" h="27" measuredW="73" measuredH="23" zOrder="6" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>15790322</color>
+            <size>14</size>
+            <text>Facebook</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="728" y="435" w="151" h="24" measuredW="151" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//si0.twimg.com/images/dev/buttons/sign-in-with-twitter-l.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::FieldSet" x="653" y="478" w="289" h="170" measuredW="200" measuredH="170" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Using%20mail%20address</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="762" y="501" w="-1" h="-1" measuredW="169" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>john.doe@unknown.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="666" y="504" w="-1" h="-1" measuredW="34" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mail%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="762" y="540" w="167" h="-1" measuredW="69" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>********</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="666" y="543" w="-1" h="-1" measuredW="43" measuredH="23" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pass%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::CheckBox" x="666" y="582" w="-1" h="-1" measuredW="121" measuredH="22" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Remember%20me</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="865" y="604" w="-1" h="-1" measuredW="64" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>homepage_registered_user%26bm%3Bhomepage_registered_user.bmml%26bm%3Bhomepage_registered_user.bmml%26bm%3Bhomepage_registered_user.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22726%2C532%2C790%2C560%22%20href%3D%22homepage_registered_user.bmml%22%20alt%3D%22homepage_registered_user%22%20id%3D%2218%22/%3E</map>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
